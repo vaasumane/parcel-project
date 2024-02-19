@@ -2,7 +2,7 @@
 
 # dependencies
 /node_modules
-/parcel-cache
+/.parcel-cache
 /dist
 /node_modules
 /.pnp
